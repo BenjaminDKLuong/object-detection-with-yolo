@@ -44,7 +44,7 @@ python yolo_video.py --input videos/test.mp4 --output output/test_output.avi --y
 
 ## My thoughts
 After watching the output video, the model performs not so well. It thinks a pen as a knife, a calculator or a remote as a cellphone
-![alt pic1][pic1.png]
+![alt pic1](https://github.com/BenjaminDKLuong/object-detection-with-yolo/blob/master/pic1.png)
 ![alt pic2][pic2.png]
 ![alt pic3][pic3.png]
 ![alt pic4][pic4.png]
